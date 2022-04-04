@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   
-  <img src="images/logo.png" alt="Logo" width="80" height="80" />
+  <!-- <img src="images/logo.png" alt="Logo" width="80" height="80" /> -->
   <!-- https://drive.google.com/uc?export=view&id=      => Google drive Link -->
 
   <h2 align="center">Password Manager</h2>
@@ -66,9 +66,10 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-* What the application does ?
-* State of the Project (Alpha, Beta, Realeased)
-* Main difficulties - [Roadmap](#roadmap)
+Password-Manager is a generator of strong password generated randomly by using a preset or define your own properties for your password. Password-Manager is also a manager of password you can get at any time with the manager.
+
+**State of the project => v.1.0.0**
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
